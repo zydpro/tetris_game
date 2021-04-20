@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066925144769",
+    "project_id": "tetrisgame-98db7",
+    "storage_bucket": "tetrisgame-98db7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066925144769:android:58fb6a953720ac3e11f240",
+        "android_client_info": {
+          "package_name": "com.zyd.tetris_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066925144769-pjavgtjlmc5lho1h8prf9lh1mtpc3qih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu1K8XV81mMCReKsp04d-OVUCQ09i9B0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066925144769-pjavgtjlmc5lho1h8prf9lh1mtpc3qih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
